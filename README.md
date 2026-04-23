@@ -13,6 +13,7 @@ I believe in **professional excellence during work hours** and **quality rest du
 
 ### 💻 Technical Stack
 * **Frontend:** React, Next.js, TypeScript.
+* **Backend:** Go, Python, Node.js
 * **Styling:** CSS3, Tailwind CSS, Styled Components.
 * **Testing & Tools:** Jest, React Testing Library, Git, Docker.
 
